@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there 👋, I'm Tai Dang</h1>
 <h3 align = "center"> theory is always good </h3>
 
-<a href="https://app.daily.dev/dangtantaibk"><img src="https://api.daily.dev/devcards/d825bfde22d643fa9b3669a651e570c6.png?r=zgx" width="400" alt="Đặng Tấn Tài's Dev Card"/></a>
+<a href="https://app.daily.dev/dangtantaibk"><img src="https://api.daily.dev/devcards/d825bfde22d643fa9b3669a651e570c6.png?r=giy" width="400" alt="Đặng Tấn Tài's Dev Card"/></a>
 
 ![status](https://komarev.com/ghpvc/?username=dangtantaibk&color=blue)
 <!-- ![status](https://badge.stateful.com/dangtantaibk/status.svg)
